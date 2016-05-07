@@ -1,0 +1,19 @@
+{
+  "name": "TriT website",
+  "version": "0.0.1",
+  "homepage": "tritcode.github.io",
+  "authors": [
+    "Ricardo Erikson <ricardoerikson@gmail.com>"
+  ],
+  "description": "TriT Tecnologia",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
