@@ -1,0 +1,19 @@
+.dropdown-menu>li>a>span.glyphicon {
+    margin-right: 10px;
+}
+
+span.glyphicon.glyphicon-twitter {
+    background-image: url('../images/twitter_logo_blue_16.png');
+    width: 16px;
+    height: 16px;
+}
+
+span.glyphicon.glyphicon-facebook {
+    background-image: url('../images/fb_logo_blue_16.png');
+    width: 16px;
+    height: 16px;
+}
+
+.vfill {
+    min-height: 100vh;
+}
