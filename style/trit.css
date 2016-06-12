@@ -1,3 +1,7 @@
+* {
+    color: #411775 !important;
+}
+
 .dropdown-menu>li>a>span.glyphicon {
     margin-right: 10px;
 }
@@ -16,4 +20,6 @@ span.glyphicon.glyphicon-facebook {
 
 .vfill {
     min-height: 100vh;
+    height: 100vh;
+    overflow: hidden;
 }
