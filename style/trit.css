@@ -21,6 +21,10 @@
 
 /* COMPONENTS */
 
+.container-fluid {
+    padding: 20px 30px;
+}
+
 .dropdown-menu>li>a>span.glyphicon {
     margin-right: 10px;
 }
